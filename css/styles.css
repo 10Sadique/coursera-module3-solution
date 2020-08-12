@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    font-size: 1.2em;
 }
 
 body {
     font-family: 'Comic Neue', cursive;
     font-weight: bold;
+    font-size: 1.6em;
 }
 
 /* Navbar */
@@ -15,6 +15,7 @@ body {
 }
 
 #header-nav a.navbar-brand {
+    font-size: 1.4em;
     color: #fff;
 }
 
